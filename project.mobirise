@@ -52,7 +52,7 @@
       }
     ],
     "imageResize": true,
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
